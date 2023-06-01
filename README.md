@@ -8,8 +8,6 @@
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssxingzhe)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ssxingzhe&repo=github-readme-stats)](https://github.com/ssxingzhe/github-readme-stats)
-
 <!--START_SECTION:ssxingzhe-->
 
 <!--END_SECTION:ssxingzhe-->
