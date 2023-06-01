@@ -6,6 +6,8 @@
 - 💬 Ask me about basic knownledge of linux,k8s.
 - 📫 How to reach me: spxingzhe@gmail.com
 
+https://img.shields.io/badge/go-1.20-orange
+
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssxingzhe)
 
 <!--START_SECTION:ssxingzhe-->
