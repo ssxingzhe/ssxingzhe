@@ -6,9 +6,9 @@
 - 💬 Ask me about basic knownledge of linux,k8s.
 - 📫 How to reach me: spxingzhe@gmail.com
 
-https://img.shields.io/badge/go-1.20-orange
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssxingzhe)
 
-https://img.shields.io/badge/<go>-<1.20>-<orange>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ssxingzhe&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:ssxingzhe-->
 
