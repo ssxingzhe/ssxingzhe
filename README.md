@@ -8,7 +8,7 @@
 
 https://img.shields.io/badge/go-1.20-orange
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssxingzhe)
+https://img.shields.io/badge/<go>-<1.20>-<orange>
 
 <!--START_SECTION:ssxingzhe-->
 
