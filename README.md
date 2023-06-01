@@ -8,5 +8,6 @@
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssxingzhe)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:ssxingzhe-->
+
+<!--END_SECTION:ssxingzhe-->
