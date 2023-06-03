@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm XingzheSun</h1>
+<h2 align="center">Hi there👋, I'm Xingzhe Sun</h2>
 
 - 🌱  I’m currently learning go and k8s.
 - 👯  I’m looking to collaborate on k8s and go.
