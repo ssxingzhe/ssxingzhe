@@ -16,5 +16,3 @@
 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssxingzhe)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssxingzhe&" alt="ssxingzhe" /></p>
