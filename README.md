@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there👋, I'm XingzheSun</h1>
 
 - 🌱  I’m currently learning go and k8s.
 - 👯  I’m looking to collaborate on k8s and go.
@@ -17,6 +17,4 @@
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssxingzhe)
 
-<!--START_SECTION:ssxingzhe-->
-
-<!--END_SECTION:ssxingzhe-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssxingzhe&" alt="ssxingzhe" /></p>
