@@ -4,7 +4,7 @@
 - 👯  I’m looking to collaborate on k8s and go.
 - 🤔  I’m looking for help with optimizing compute,network,storage in linux environment.
 - 💬  Ask me about basic knownledge of centos, shell, iptables, sed, docker, k8s.
-- 📫  How to reach me: spxingzhe@gmail.com
+- 📫  How to reach me: spxingzhe@gmail.com or in my blog(https://segmentfault.com/u/spxingzhe)
 
 
 ![Go Reference](https://img.shields.io/badge/go-1.20-orange?style=plastic&logo=appveyor)
