@@ -1,6 +1,6 @@
 <h3 align="center">Hi there👋, I'm Xingzhe Sun</h3>
 
-- 🌱  I’m currently learning go and k8s.
+- 🌱  I’m currently learning go and prometheus.
 - 👯  I’m looking to collaborate on k8s and go.
 - 🤔  I’m looking for help with optimizing compute,network,storage in linux environment.
 - 💬  Ask me about basic knownledge of centos, shell, iptables, sed, docker, k8s.
